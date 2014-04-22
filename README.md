@@ -1,6 +1,9 @@
-A simple meteor seed application with
+met-bs3
+=======
 
-Bootstrap 3
-Simple Bootstrap template (navbar/hero)
-Winston (logging)
-Iron-Router
+A simple meteor seed application with:  
+
+ * Bootstrap 3
+ * Simple Bootstrap template (navbar/hero)
+ * Winston (logging)
+ * Iron-Router
