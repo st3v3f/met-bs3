@@ -1,4 +1,13 @@
+
+
+
+
 if (Meteor.isClient) {
+
+  Accounts.ui.config({
+    passwordSignupFields: 'USERNAME_ONLY'
+  });
+
   Template.hello.greeting = function () {
     return "Welcome to met-bs3.";
   };
@@ -15,5 +24,7 @@ if (Meteor.isClient) {
 if (Meteor.isServer) {
   Meteor.startup(function () {
     // code to run on server at startup
+
+
   });
 }
