@@ -1,4 +1,4 @@
-met-bs3
+met-bs3 (Currently work-in-progress!)
 =======
 
 A simple meteor seed application with:  
