@@ -1,9 +1,8 @@
-met-bs3 (Currently work-in-progress!)
+met-bs3 (now updated to meteor v1.0.3.1)
 =======
 
-A simple meteor seed application with:  
+A simple meteor seed application with:
 
  * Bootstrap 3
- * Simple Bootstrap template (navbar/hero)
- * Winston (logging)
+ * Simple Bootstrap template
  * Iron-Router
