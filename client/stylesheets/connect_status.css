@@ -1,0 +1,9 @@
+.connect-status .connected {
+    color: LightGreen;
+    font-size: 1em;
+}
+
+.connect-status .disconnected {
+    color: red;
+    font-size: 1em;
+}

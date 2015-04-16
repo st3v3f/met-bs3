@@ -1,6 +1,11 @@
-Template.hello.greeting = function () {
-  return "Welcome to met-bs3.";
-};
+Template.hello.helpers({
+
+  greeting: function () {
+    return "Welcome to met-bs3.";
+  }
+
+
+});
 
 Template.hello.events({
   'click input': function () {
